@@ -1,0 +1,29 @@
+body{
+background-color:rgb(0, 0, 0);
+background-image:url("https://ae01.alicdn.com/kf/HTB1DkTqKh9YBuNjy0Ffq6xIsVXaP/365-Days-Personal-Diary-Planner-Hardcover-Notebook-Diary-2018-Office-Weekly-Schedule-Cute-Korean-Stationery-Libretas.jpg_Q90.jpg_.webp");
+background-attachment:fixed;
+background-size:1300px;
+}
+   h1{
+    color:rgb(237, 80, 80);
+    font-size: 60;
+    font-style: oblique;
+    text-align: center;
+    animation-name: titre;
+    animation-duration: 4s;
+   }
+   @keyframes titre {
+    from {color: rgb(217, 95, 95);}
+    to {color: rgb(79, 39, 167);}
+  }
+   h2{
+    color:rgb(42, 118, 249);
+   }
+   .par{
+    color:rgb(3, 87, 35);
+    font-family: monospace;
+   }
+   #der-artic{
+    color: rgb(190, 142, 235);
+
+   }
